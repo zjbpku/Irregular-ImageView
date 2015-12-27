@@ -2,6 +2,6 @@
 Irregular ImageView
 
 ##Screenshot
-![](<../app/Screenshot.png>)
+![](</Screenshot.png>)
 
 
